@@ -1,2 +1,1 @@
-# Aula-1-python-para-datascience
-Aula 1
+# Aula Conteúdos e exercícios do Curso SENAI Para DataScience
